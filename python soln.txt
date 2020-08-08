@@ -1,0 +1,9 @@
+1) * pycharam :-is best ide for the python programing it comes from jet brains company,it supprorts a graphical designer ,frame designer,and ot also support  popular frame worker Django.
+   *pydev with complex:-pydev is a free of cost,it can run with eclipse,it can have a efficent new features,and it can support django.
+   *wingide:-wingware is famous it can comes from wingware company,  the main target of wing is proffecinal developers.
+
+2) the output is Telusko \nRocks (because when single qutation of string it will not consider next line \n)
+   it will print (s) when we given negative value it will search fron rightto left 
+
+3)  nums=[25,36,95,14,12,13]
+    
