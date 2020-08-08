@@ -1,0 +1,43 @@
+1) Name any three ide of python?
+2)Guess the output print(r'Telusko \nRocks') and name='Telusko' print(name[-3])?
+3)nums=[25,36,95,14,12,13] how to delete values(95,14,12)?
+4)what is mutability means?
+5)Difference between set and list?
+6)Name any fourdata types with deffination?
+7)a=15
+  b=12
+  x=(a//4+b**3)<2000 and (b%4!=0)
+  also write resion?
+8)Guess the output?
+  1)7<<2
+  2)125|265
+  3)652*125
+  4)(288<<2)>>(26//6)
+9)list any 5 functions from math module with there working?
+10)write code to find the cube of the number?
+  take the input from the user using command lines?
+11)write a code to check a given number is positive or negative?
+12)take three values from user and find the greatest number from them ? 
+13)write a code to print all the values from 1 to 100.
+   skip the numbers which are divisible by 3 to 5.
+14)write a code to print below pattern.
+   # # # # #
+   # # # # #
+   # # # # #
+   # # # # #
+15)print all the perfect square number between 1 and 500.
+16)print first 50 fibonacci numbers?
+17)check a given number is prime or not?
+18)assigenment question 
+  1.1234    2.A P Q R
+    234       A B Q R
+    34        A B C R
+    1         A B C D
+19)what is Array?diffent dimentional array?
+20)wrie a code to sort the array in asscending order ?
+21)write a code find a factorial of a given number?
+22)create an array with 5 values and delete the value at index number 2 without using in built function?
+23)write a code to reverse an array without using in built function?
+24)what is def in pythhon?
+
+  
